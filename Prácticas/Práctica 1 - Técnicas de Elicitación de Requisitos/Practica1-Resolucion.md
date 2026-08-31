@@ -53,4 +53,55 @@
 
 ## Entrevistas
  
+### Parte 1. Definiciones
 
+1. En una entrevista se puede obtener información relacionada a los sentimientos y las opiniones del entrevistado. Importantemente, se puede aprender sobre procedimientos informales que realizan los entrevistados, que no se corresponden con lo que dice algún documento.
+2. Etapas de preparación de una entrevista:
+    *  Leer los antecedentes
+    *  Establecer los objetivos de la entrevista
+    *  Seleccionar los entrevistados
+    *  Planificar la entrevista de acuerdo al entrevistado (fecha, hora, lugar y duración).
+    *  Seleccionar el tipo de preguntas a usar y su estructura (cerradas/abiertas).
+3. Tipos de preguntas a usar en una entrevista:
+    * **Abiertas**: permiten que el entrevistado responda de cualquier manera. Ej: *¿Qué opinión tiene del sistema actual?*
+        * **Ventajas**
+            * Las respuestas del entrevistado pueden dar lugar a nuevas preguntas.
+            * Hacen más interesante la entrevista para el entrevistado.
+            * Permiten espontaneidad.
+        * **Desventajas**
+            * Pueden dar detalles irrelevantes.
+            * Se puede perder el control de la entrevista.
+            * Parece que el entrevistador no tiene los objetivos claros.
+    * **Cerradas**: las respuestas son directas y cortas. Ej: *¿Quién recibe este informe?*
+        * **Ventajas**
+            * Ahorran tiempo.
+            * Se mantiene más fácilmente el control de la entrevista.
+            * Se consiguen datos relevantes.
+        * **Desventajas**
+            * Puede aburrir al entrevistado.
+            * No se obtienen detalles.
+    * **Sondeo**: Permiten obtener detalles sobre un tema puntual. Ej: *¿Podría dar un ejemplo de...?*
+4. Existen 3 maneras principales de organizar una entrevista:
+    * **Organización piramidal (inductivo):** se comienza con preguntas cerradas y termina con preguntas abiertas.
+    * **Organización de embudo (deductivo):** se comienza con preguntas abiertas y termina con cerradas.
+    * **Organización de diamantre:** combina las anteriores, el flujo de tipo de preguntas sería: cerradas, abiertas, cerradas.
+5. ??? DUDA, planilla?
+6. ??? DUDA
+
+### Parte 2. Situaciones
+
+#### Situación 1
+* Tiene una entrevista con el gerente de ventas de una empresa el cual desea informatizar dicho sector pero no tuvo tiempo de preparar las preguntas por lo que le pidió a un nuevo empleado que le prepare algunas. Cuando las lee, se da cuenta que son inadecuadas. Lea las preguntas y vuelva a redactarlas de una manera más apropiada. Especifique por qué le parece inadecuada cada una de ellas.
+
+* Pregunta A: "Sus subordinados me dijeron que la empresa no anda bien. ¿Es cierto?"
+    * Es inadecuada porque es una pregunta con intención. Se nota por la pregunta que el entrevistador cree que la empresa no anda bien, y quiere que el entrevistado confirme su sesgo.
+    * Pregunta mejorada: **¿Que opina del estado actual de la empresa?** 
+* Pregunta B: "Soy nuevo en esto. ¿Qué he dejado afuera?"
+    * Es inadecuada porque muestra inexperiencia de manera explícita, lo que puede hacer que el entrevistado se deje de tomar en serio la entrevista.
+    * Pregunta mejorada: **¿Hay algún tópico que le gustaría discutir, sobre el cual no hayamos tenido la posibilidad de hablar?**
+* Pregunta C: "¿Estará usted de acuerdo con los demás gerentes de ventas, respecto a que computarizar las ventas mensuales y luego realizar un análisis de la tendencia tendría usted grandes mejoras?"
+    * Es inadecuada porque está mal redactada. Además, se trata de una pregunta con intención al igual que la A.
+    * Pregunta mejorada: **¿Qué opina sobre la sugerencia de los demás gerentes de ventas, respecto a computarizar las ventas mensuales y luego realizar un análisis de la tendencia?**
+* Pregunta D: "¿No habrá una mejor manera de hacer proyecciones de sus ventas, que ese procedimiento anticuado que usted utiliza?"
+    * Es inadecuada porque, una vez más, se trata de una pregunta sesgada.
+    * Pregunta mejorada: **¿Qué opina sobre el procedimiento utilizado actualmente en la empresa para realizar proyecciones de ventas?**
