@@ -105,3 +105,31 @@
 * Pregunta D: "¿No habrá una mejor manera de hacer proyecciones de sus ventas, que ese procedimiento anticuado que usted utiliza?"
     * Es inadecuada porque, una vez más, se trata de una pregunta sesgada.
     * Pregunta mejorada: **¿Qué opina sobre el procedimiento utilizado actualmente en la empresa para realizar proyecciones de ventas?**
+
+#### Situación 2
+
+a. En esa situación, lo ideal sería preguntarle al entrevistado si preferiría reprogramar la entrevista. Es importante no sonar frustrado y ser compresibo con él.
+b. En caso de que no sea posible reprogramar o cancelar la entrevista, la mejor opción sería hacer una entrevista reducida, dejando únicamente las preguntas más importantes.
+
+#### Situación 3
+a. La sensación que deja es que el entrevistador y el entrevistado tuvieron una charla informal sobre su vida.
+b. Sí, básicamente todo excepto por el hecho de que el entrevistador mencionó que nada ha cambiado en la empresa hacer 16 años.
+c. Mis tres consejos serían:
+    * Utilizar preguntas cerradas puede ayudar a no perder el control de la entrevista, y obtener información relevante. Además, son más amigables para entrevistadores principiantes.
+    * El informe de la entrevista no debería contener información irrelevante como la duración, o el juicio de valor sobre si lo que le contaron fue "interesante".
+    * Aunque un poco de charla con el entrevistado al principio puede ser útil para aliviar tensiones, es importante tener en cuenta el tiempo que uno tiene disponible. Dicha charla introductoria no puede ocupar la duración completa de la entrevista.
+
+ ### Parte 3. Problemas
+ ### duda, pendiente
+
+ ## Cuestionarios
+ ### Parte 1. Definiciones
+ 1. Con un cuestionario, se busca información sobre:
+    * Actitud: lo que las personas dicen que quieren.
+    * Creencias: lo que las personas creen que es verdad.
+    * Comportamiento: lo que realmente hacen
+    * Caracterísitcas sobre personas o cosas.
+2. Es apropiado usar cuestionarios cuando usar otros métodos resulta impráctico. Por ejemplo, la cantidad de personas es muy alta, o están esparcidas geógraficamente. También sirve cuando buscamos información general sobre un problema, y no la opinión de alguien particular.
+3. Tipos de preguntas en un cuestionario:
+    * **Abiertas:** dejan como opción cualquier tipo de respuesta. Ej: *Describa los problemas que experimenta en la actualidad con los informes de las salidas*
+    * **Cerradas:** limitan las respuestas posibles. Ej: *¿Es útil el reporte que utiliza actualmente? SI NO*
