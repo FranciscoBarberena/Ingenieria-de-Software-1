@@ -13,6 +13,7 @@
 
 ## Reverso
 * Criterios de Aceptación (`Reservar muebles`)
+
 * **Escenario 1**: `Reserva exitosa`
     * Dada `una reserva de 3 o más muebles y las condiciones necesarias para un pago exitoso`,
     * Cuando `un Cliente ingresa la fecha 20/10/2026, lugar del evento Salón Rodriguez, cantidad de días 5, mobiliario Silla de Madera y cantidad 3, y presiona "Realizar reserva"`

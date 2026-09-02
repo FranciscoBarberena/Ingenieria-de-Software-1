@@ -10,6 +10,7 @@
 
 ## Reverso
 * Criterios de Aceptación (`ID`)
+
 * **Escenario 1**: `títuloEscenario`
     * Dado `contexto`,
     * Cuando `evento`

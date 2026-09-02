@@ -9,6 +9,7 @@
 
 ## Reverso
 * Criterios de Aceptación (`Pagar con tarjeta`)
+
 * **Escenario 1**: `Pago exitoso`
     * Dada `la conexión con el servidor del banco exitosa, el número 1234 correspondiente a una tarjeta de crédito y la tarjeta con fondos suficientes para el pago`,
     * Cuando `el Cliente ingresa el número de tarjeta 1234 y presiona “Pagar”`
