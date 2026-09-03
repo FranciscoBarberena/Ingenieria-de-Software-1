@@ -8,10 +8,6 @@
 
 ---
 
-* Duda: pongo la fecha de hoy? ya que dice que tiene que ser dentro de 90 dias desde la fecha actual.
-* Qué pasa con el pago? enunciado no da detalles
-* Tiene que haber un orden de prioridades en los criterios de aceptacion?? No entiendo como se define cuando 2 criterios no se cumplen a la vez
-
 ## Reverso
 * Criterios de Aceptación (`Reservar hospedaje`)
 

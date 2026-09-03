@@ -5,10 +5,6 @@
 * **Reglas de negocio**:
     * Una reserva tiene que tener como mínimo 3 muebles.
     * El pago de la reserva solo se puede realizar con tarjeta de crédito.
-    * El costo de la reserva es un 20% del total del alquiler.
-
-* **Duda**: la regla 3 no cambia ningún escenario, pero es una regla de negocio. Se pone igual? O va en la HU pagar con tarjeta?
-* **Duda**: la emisión del número de reserva donde la pongo? tendía sentido que sea por mail, pero no se menciona nada de un correo.
 ---
 
 ## Reverso
@@ -26,5 +22,9 @@
     * Dado `una reserva de 3 o más muebles y las condiciones no adecuadas para un pago exitoso`,
     * Cuando `un Cliente ingresa la fecha 20/10/2026, lugar del evento Salón Rodriguez, cantidad de días 5, mobiliario Silla de Madera y cantidad 3, y presiona "Realizar reserva"`
     * Entonces `el sistema redirige al Cliente al pago de la reserva, espera respuesta y no da de alta la reserva. Informa en pantala: "No se ha realizado el pago correctamente, la reserva no se pudo efectuar`.
+* **Escenario 4:** `Reserva fallida por falta de stock.`
+    * Dada `una reserva de 3 unidades de Silla de Madera, cuyo stock actual es 2`,
+    * Cuando `un Cliente ingresa la fecha 20/10/2026, lugar del evento Salón Rodriguez, cantidad de días 5, mobiliario Silla de Madera y cantidad 3, y presiona "Realizar reserva"`
+    * Entonces `el sistema no realiza ninguna reserva. Informa: No hay stock suficiente del producto Silla de Madera.`
 
 ---

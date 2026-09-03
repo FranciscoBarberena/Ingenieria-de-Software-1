@@ -6,8 +6,7 @@
     * Los check in únicamente pueden realizarse entre las 10:00 y las 23:59.
 
 ---
-* Duda escenario 2: tengo que escribir qué se le envió al conserje y a los botones?? o con eso alcanza
-* DUDA: escenario 4, el sistema deberia estar en standby?? que pongo en el cuando?? no deberia estar leyendo codigos.
+
 ## Reverso
 * Criterios de Aceptación (`Realizar check in`)
 
@@ -25,8 +24,12 @@
     * Entonces `No se asigna ninguna habitación. El sistema informa en pantalla "El código 054AD corresponde a una reserva para el día 3/9/2026. Por favor regrese ese día entre las 10:00 y las 23:59"`
 * **Escenario 4**: `Check in fallido por horario fuera de rango`
     * Dada `la hora actual siendo la 1:00`,
-    * Cuando `nada ocurre???` 
+    * Cuando `el Cliente ingresa el código 054AC` 
     * Entonces `el sistema informa: HORARIO DE CHECK IN: 10:00 - 23:59. Por favor regrese más tarde.`
+* **Escenario 5**: `Check in fallido por intento repetido`
+    * Dado `un código de reserva 054AC con el que ya se realizó un check in en el sistema, y se le asignó la habitación 34`,
+    * Cuando `el Cliente ingresa el código 054AC` 
+    * Entonces `el sistema informa: Check in repetido. El check in correspondiente a la reserva 054AC ya se realizó`
 
 ---
 

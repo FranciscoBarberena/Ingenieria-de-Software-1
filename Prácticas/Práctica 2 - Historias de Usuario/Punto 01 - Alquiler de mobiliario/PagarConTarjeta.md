@@ -4,6 +4,7 @@
 * **Título**: Como `Cliente` quiero `pagar con tarjeta` para `realizar una reserva de muebles`.
 * **Reglas de negocio**:
     * Sólo se aceptan números correspondientes a tarjetas de crédito.
+    * El costo de la reserva es un 20% del total del alquiler.
 
 ---
 
@@ -13,7 +14,7 @@
 * **Escenario 1**: `Pago exitoso`
     * Dada `la conexión con el servidor del banco exitosa, el número 1234 correspondiente a una tarjeta de crédito y la tarjeta con fondos suficientes para el pago`,
     * Cuando `el Cliente ingresa el número de tarjeta 1234 y presiona “Pagar”`
-    * Entonces `el sistema registra el pago y retorna un resultado de éxito.`
+    * Entonces `el sistema registra el pago por 20% del total y retorna un resultado de éxito.`
 * **Escenario 2**: `Pago fallido por número de tarjeta de crédito inexistente`
     * Dado `la conexión con el servidor del banco exitosa y el número 3456 no corresponde a un número de tarjeta de crédito`,
     * Cuando `el Cliente ingresa el número de tarjeta 3456 y presiona “Pagar”`
