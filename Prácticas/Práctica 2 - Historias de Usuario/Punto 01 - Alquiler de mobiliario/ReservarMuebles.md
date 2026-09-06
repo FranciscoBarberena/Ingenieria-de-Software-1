@@ -11,7 +11,7 @@
 * Criterios de Aceptación (`Reservar muebles`)
 
 * **Escenario 1**: `Reserva exitosa`
-    * Dada `una reserva de 3 o más muebles y las condiciones necesarias para un pago exitoso`,
+    * Dada `una reserva de 3 unidades de Silla de Madera, cuyo stock actual es 10, y las condiciones necesarias para un pago exitoso`,
     * Cuando `un Cliente ingresa la fecha 20/10/2026, lugar del evento Salón Rodriguez, cantidad de días 5, mobiliario Silla de Madera y cantidad 3, y presiona "Realizar reserva"`
     * Entonces `el sistema redirige al Cliente al pago de la reserva, espera respuesta y da de alta la reserva. Informa en pantala: "Reserva realizada exitosamente! Su número de reserva es: 024A7C"`.
 * **Escenario 2**: `Reserva fallida por cantidad insuficiente de muebles`
