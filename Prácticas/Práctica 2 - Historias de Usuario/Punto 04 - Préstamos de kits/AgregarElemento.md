@@ -7,8 +7,6 @@
     * Si el elemento no es nacional, entonces se guarda un impuesto adicional del 10% calculado sobre el precio de compra
 
 ---
-* Duda :numero de serie unico se asume, no va en reglas de negocio.
-* Duda en el escenario 1 hace falta poner el origen de fabricacion y el precio de compra en el dado?? no es parte del contexto, solo es lo que ingresa el usuario
 
 ## Reverso
 * Criterios de Aceptación (`Agregar elemento`)
