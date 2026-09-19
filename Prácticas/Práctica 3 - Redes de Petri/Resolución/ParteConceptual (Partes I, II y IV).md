@@ -49,3 +49,12 @@
 6. **Opción correcta: C.** Que haya un token en cada uno de los sitios de entrada.
 7. **Opción correcta: C.** No, porque falta el *token* del cobrador.
 8. **Opción correcta: A.** Una transición con un único arco de entrada, consume solo 1 *token* al dispararse.
+
+# Parte IV: Algunas preguntas más de repaso
+
+1. **Opción correcta: B.** Se necesitan 2 *tokens*.
+2. **Opción correcta: A.** Consume un *token* y produce 2.
+3. **Opción correcta: B.** Consume 2 *tokens* y produce 1.
+4. **Opción correcta: C.** Primero se consumen los *tokens* de entrada en *i* y luego se producen los de salida en *i + Δ*.
+5. **Opción correcta: C.** La cantidad de *tokens* en la red se mantiene.
+6. **Opción correcta: B.** Consumir un *token* y generar 2. 
