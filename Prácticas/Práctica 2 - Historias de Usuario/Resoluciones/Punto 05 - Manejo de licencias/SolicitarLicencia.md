@@ -8,11 +8,6 @@
 
 ---
 
-* Duda lo de que envia el mail con la confirmacion es una regla de negocio?
-* Está bien en el titulo pner: como empleado autenticado....?
-* Hace falta verificar la matricula del medico??
-* Deberia informar algo en pantalla cuando la confirmacion es en el mail???
-
 ## Reverso
 * Criterios de Aceptación (`Solicitar licencia`)
 
