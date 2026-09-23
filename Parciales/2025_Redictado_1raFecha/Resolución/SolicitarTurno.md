@@ -27,3 +27,7 @@
     * Dado un paciente con un turno ya reservado para el 20/10 a las 20:00 hs
     * Cuando el paciente ingresa: especialidad oftalmología, médico José, día 20/10, hora 20:00 hs y presiona “Solicitar turno”
     * Entonces el sistema informa: "No se te solicitó el turno. Ya tienes un turno registrado para la fecha y hora ingresadas".
+* **Escenario 5**: Solicitud fallida por especialidad no correspondiente al médico
+    * Dada una especialidad “dermatología”, no correspondiente al médico José 
+    * Cuando el paciente ingresa: especialidad dermatología, médico José, día 20/10, hora 20:00 hs y presiona “Solicitar turno”
+    * Entonces el sistema informa: "No se solicitó el turno. El médico José no atiende por dermatología".
